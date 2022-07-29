@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch BoxPuzzle",
+      "request": "launch",
+      "mainClass": "boxpuzzle.BoxPuzzle",
+      "projectName": "N SQUARE_1ec8e3cd"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoxPuzzle",
+      "request": "launch",
+      "mainClass": "boxpuzzle.BoxPuzzle",
+      "projectName": "N SQUARE_3e8284e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoxPuzzle",
+      "request": "launch",
+      "mainClass": "boxpuzzle.BoxPuzzle",
+      "projectName": "N SQUARE_6ac3c0e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch SimpleAudioPlayer",
+      "request": "launch",
+      "mainClass": "boxpuzzle.SimpleAudioPlayer",
+      "projectName": "N SQUARE_6ac3c0e8"
+    }
+  ]
+}
